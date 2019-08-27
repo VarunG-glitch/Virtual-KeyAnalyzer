@@ -1,2 +1,2 @@
 # Virtual-KeyAnalyzer
-I am including 2 python scripts for analysis of keyboard activities along with virtual keyboard activities which will remove the myth that virtual keyboard cannot be traced.  
+I am including 2 python scripts for analysis of keyboard activities along with virtual keyboard activities which will remove the myth that virtual keyboard cannot be traced. Basically this will log the keyboard activities and for virtual keyboard it will take a screenshot of the particular area this way we can gather all the information regarding the sensitive information like passwords.
